@@ -1,4 +1,4 @@
-# 🌊 Flood Risk Prediction for India
+# 🌊 PROJECT DILUVIA - Flood Risk Prediction for India 
 
 ## 📌 Project Overview
 This project aims to develop a **machine learning model** that predicts **continuous flood risk scores** for regions in India, using historical meteorological and hydrological data from **IMD** and **NASA** datasets. The model's output will be visualized on an **interactive web-based map**, enabling better preparedness and disaster management.
@@ -84,4 +84,4 @@ This project is for **educational and research purposes**. Data usage must compl
 ---
 
 ## 👤 Author
-**[Your Name]** – [Your Email or Portfolio Link]  
+**Swapnil Pramanik** – pramanikswapnil9@gmail.com  
